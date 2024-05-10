@@ -1,0 +1,42 @@
+body{
+    padding:0;
+    margin:0;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color:white;
+    color:black;
+}
+h6{
+    text-align: center;
+    color:black;
+    font-size:70px;
+    font-style: italic;
+}
+.title{
+    text-align:right;
+    margin-right:525px;
+}
+#fon{
+    text-align: center;
+    font-weight:bolder;
+    font-size:xx-large;
+}
+h4{
+    color: black;
+    margin-left: 410px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size:x-large;
+}
+.about{
+    text-align:justify;
+    margin-left: 450px;
+    margin-right: 500px;
+    
+}
+#saying{
+   margin-left: 410px;
+   font-size:large;
+   font-weight: bold;
+}
+footer{
+    text-align: center;
+}
